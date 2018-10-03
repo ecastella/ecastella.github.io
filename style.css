@@ -1,0 +1,8 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1538425679099-774ec988c02a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=60fac4b206709b25675d64ee0163a7ea&auto=format&fit=crop&w=1350&q=80)
+  background-color: black;
+}
+
+.h1 {
+  font-family: 'Hind', sans-serif;
+}
